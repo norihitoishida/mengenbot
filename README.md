@@ -1,0 +1,2 @@
+# mengenbot
+youtubeのメン限配信を通知するTwitterbot
